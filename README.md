@@ -8,8 +8,9 @@ unsupervised learning, feature engineering, and deeplearning.Proficient in AI to
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)                                             ![Tool Name](https://img.shields.io/badge/-ToolColorCode?style=flat-square&logo=ToolName&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)                                          ![Hi Robot](https://path-to-online-image.com)
+
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)                                             
 
 
 <!-- Add more tools as you wish -->
